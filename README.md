@@ -10,4 +10,4 @@ I haven't created a user interface yet, so you'll need to open the script manual
 
 Of course, you can define your own sorting order and parameters.
 
-Using my script, it becomes clear that there's more than one optimal layout. While configurations shared on [Reddit](https://www.reddit.com/r/Spore/comments/gu5unm/in_responce_to_ranger_jackal_heres_the_actual/) or the [Spore Wiki](https://spore.fandom.com/wiki/City#Colonies) are indeed optimal, they're incorrect in claiming theirs is **the** optimal solution rather than **one of** the optimal solutions 🤓.
+Using my script, it becomes clear that there's more than one optimal layout. While configurations shared on e.g. the [Spore Wiki](https://spore.fandom.com/wiki/City#Colonies) are indeed optimal, they're incorrect in claiming theirs is **the** optimal solution rather than **one of** the optimal solutions. And this configuration on [Reddit](https://www.reddit.com/r/Spore/comments/gu5unm/in_responce_to_ranger_jackal_heres_the_actual/) has redundant happiness. Moreover, optimality depends on the stage of the game and whether the player uses planetary boosters 🤓.
